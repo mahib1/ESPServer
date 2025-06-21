@@ -1,6 +1,5 @@
 # ESP Server for HHTRF Project
 ---
-```markdown
 # 🌡️ Sensor API Server
 
 A lightweight Node.js server built with **Express** and **MongoDB**, designed to collect and store **temperature** and **moisture** sensor data sent from client devices like ESP32.
